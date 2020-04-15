@@ -1,6 +1,6 @@
 const express=require('express');
 const _=require('lodash');
-const port=process.env.PORT || 5000;
+const port=process.env.PORT || 2000;
 const hbs=require('hbs');
 var app=express();
 
